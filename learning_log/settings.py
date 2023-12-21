@@ -138,6 +138,5 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 # My settings
 LOGIN_URL = "users:login"
 LOGIN_REDIRECT_URL = "learning_logs:index"
-LOGOUT_REDIRECT_URL = "learning_logs:index"
 CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap5"
 CRISPY_TEMPLATE_PACK = "bootstrap5"
