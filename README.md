@@ -6,10 +6,10 @@ Some photos describing a little this project.
 
 ### Landing page
 ![landing page](demo/main.png)
-### Register page
-![register page](demo/register.png)
 ### Topic page
 ![topic page](demo/topic.png)
+### Register page
+![register page](demo/register.png)
 
 ## Environment Variables
 If you want to run this application, you should have an .env file with the following data.
